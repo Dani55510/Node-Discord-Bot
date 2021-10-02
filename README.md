@@ -4,7 +4,7 @@
 
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="🤖 Node" src="https://i.goopics.net/52j27r.jpg">  
 
-# Node
+# dani
 
 [![⭐ GitHub](https://img.shields.io/github/stars/LyricalString/Node-Discord-Bot.svg?style=social&label=Stars&style=flat)](https://github.com/LyricalString/Node-Discord-Bot/stargazers)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=LyricalString_probando&metric=ncloc)](https://sonarcloud.io/dashboard?id=LyricalString_probando)
